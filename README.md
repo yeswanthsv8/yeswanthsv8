@@ -1,4 +1,4 @@
-### Hello, I'm Yeswanth Currently pursuing Bachelor of Engineering in Computer Science Engineering.👋
+### Hey Hiiii!, I'm Yeswanth Currently pursuing Bachelor of Engineering in Computer Science Engineering.👋
 
 <!--
 - 🔭 I’m currently working on dream to get good job
