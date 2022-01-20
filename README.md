@@ -28,18 +28,19 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeswanthsv8&theme=radical)
 <p>
     <a href="https://github.com/yeswanthsv8/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yeswanth's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yeswanthsv8&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yeswanth's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yeswanthsv8&theme=gruvbox&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 
 <a href="https://github.com/yeswanthsv8/github-readme-stats"><img alt="Yeswanth's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeswanthsv8&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
- 
-<a href="https://github.com/yeswanthsv8/github-readme-activity-graph"><img alt="Yeswanth's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yeswanthsv8&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
+## Snake eating my Contributions:
 ![Snake eat Grid](https://github.com/yeswanthsv8/yeswanthsv8/blob/output/github-contribution-grid-snake.gif)
-
+    
+<a href="https://github.com/yeswanthsv8/github-readme-activity-graph"><img alt="Yeswanth's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yeswanthsv8&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 </p>
+
 
 ## Connect with me:
 <p align="left">
