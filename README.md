@@ -1,10 +1,8 @@
 <h1 align="center"><img src="https://cdn.dribbble.com/users/1090020/screenshots/3901343/________-5.gif" alt="Coder GIF" width="500"></h1>
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yeswanth</h1>
 <h3 align="center">Currently Pursuing Bachelor Of Engineering.</h3>
 
-
-## 🙋‍♂️ About Me
+## 🙋‍♂️ About Me:
 - 🔭 I’m currently working on to get my dream job
 - 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate on **OpenSource Projects**
@@ -13,7 +11,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I hate covid-19
 
-
+## 🚀 Languages and Tools:
 <p align="left"> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
     <a style="padding-right:8px;" href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
@@ -26,38 +24,30 @@
     <a style="padding-right:8px;" href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> </a>
 <p/>
 
-
-
-## 🚀 Languages and Tools:
-
-## 📊 My Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeswanthsv8&theme=merko)
-<p align="center">
+## 📊 My Github Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeswanthsv8&theme=radical)
+<p>
     <a href="https://github.com/yeswanthsv8/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yeswanth's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yeswanthsv8&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
-</p>
 
-
-
+<a href="https://github.com/yeswanthsv8/github-readme-stats"><img alt="Yeswanth's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeswanthsv8&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  <a href="https://github.com/yeswanthsv8/github-readme-stats"><img alt="Yeswanth's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeswanthsv8&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-
  
 <a href="https://github.com/yeswanthsv8/github-readme-activity-graph"><img alt="Yeswanth's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yeswanthsv8&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
+![Snake eat Grid](https://github.com/yeswanthsv8/yeswanthsv8/blob/output/github-contribution-grid-snake.gif)
 
-
-
-
+</p>
 
 ## Connect with me:
 <p align="left">
-<a href = "https://www.linkedin.com/in/yeswanthsv8/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/yeswanthsv8/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/yeswanth-sv/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/yeswanth_sv/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
-## ❤ Views and Followers
+## ❤ Views and Followers:
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=yeswanthsv8">
 </a>
