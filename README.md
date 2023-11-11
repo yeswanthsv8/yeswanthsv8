@@ -1,13 +1,12 @@
-<h1 align="center"><img src="https://cdn.dribbble.com/users/1090020/screenshots/3901343/________-5.gif" alt="Coder GIF" width="500"></h1>
+<h1 align="center"><img src="https://www.pexels.com/photo/man-sitting-with-laptop-computer-on-desk-and-lamp-1586996/" alt="Coder GIF" width="500"></h1>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yeswanth</h1>
-<h3 align="center">Currently Pursuing Bachelor Of Engineering.</h3>
 
 ## 🙋‍♂️ About Me:
-- 🔭 I’m currently working on to get my dream job
-- 🌱 I’m currently learning python
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 🔭 I’m currently working for **Cognizant Technology Solutions**.
+- 🌱 I’m currently learning **Django - Python Backend Web Development**.
+- 👯 I’m looking to collaborate on **OpenSource Django based Projects**.
 - 💬 Ask me about any tech related stuffs
-- 📫 How to reach me **yeswanthsv8@gmail.com**
+- 📫 Reachout me: **yeswanthsv8@gmail.com**
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I hate covid-19
 
@@ -33,14 +32,7 @@
 
 <a href="https://github.com/yeswanthsv8/github-readme-stats"><img alt="Yeswanth's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeswanthsv8&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-## Snake eating my Contributions:
-![Snake eat Grid](https://github.com/yeswanthsv8/yeswanthsv8/blob/output/github-contribution-grid-snake.gif)
-    
-<a href="https://github.com/yeswanthsv8/github-readme-activity-graph"><img alt="Yeswanth's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yeswanthsv8&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-</p>
-
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level
 
 ## Connect with me:
 <p align="left">
