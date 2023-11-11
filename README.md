@@ -1,12 +1,12 @@
-<h1 align="center"><img src="https://www.pexels.com/photo/man-sitting-with-laptop-computer-on-desk-and-lamp-1586996/" alt="Coder GIF" width="500"></h1>
+<h1 align="center"><img src="https://justinstum.com/wp-content/uploads/2021/05/teletherapy-counseling-justin-stum.jpeg" alt="Coder GIF" width="500"></h1>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yeswanth</h1>
 
 ## 🙋‍♂️ About Me:
 - 🔭 I’m currently working for **Cognizant Technology Solutions**.
 - 🌱 I’m currently learning **Django - Python Backend Web Development**.
-- 👯 I’m looking to collaborate on **OpenSource Django based Projects**.
+- 👯 I’m looking to collaborate on **Open source Django based Projects**.
 - 💬 Ask me about any tech related stuffs
-- 📫 Reachout me: **yeswanthsv8@gmail.com**
+- 📫 Reach out: **yeswanthsv8@gmail.com**
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I hate covid-19
 
@@ -34,7 +34,7 @@
   
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level
 
-## Connect with me:
+## Connect with Me:
 <p align="left">
 <a href = "https://www.linkedin.com/in/yeswanth-sv/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
