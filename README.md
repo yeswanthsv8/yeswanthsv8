@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://justinstum.com/wp-content/uploads/2021/05/teletherapy-counseling-justin-stum.jpeg" alt="Coder GIF" width="500"></h1>
+<h1 align="center"><img src="https://justinstum.com/wp-content/uploads/2021/05/teletherapy-counseling-justin-stum.jpeg" alt="Coder GIF" width="800"></h1>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yeswanth</h1>
 
 ## 🙋‍♂️ About Me:
@@ -32,7 +32,7 @@
 
 <a href="https://github.com/yeswanthsv8/github-readme-stats"><img alt="Yeswanth's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeswanthsv8&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 ## Connect with Me:
 <p align="left">
